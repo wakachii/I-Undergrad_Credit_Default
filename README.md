@@ -1,4 +1,4 @@
-# credit_default
+# credit default prediction
 
 This is a credit default prediction model written in Japanese.
 
